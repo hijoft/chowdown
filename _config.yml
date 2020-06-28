@@ -1,13 +1,13 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: hijoft@gmail.com
 description: The plain text recipe database for hackers
-baseurl: "https://chowdown.io"
+baseurl: "http://food.ötzibräu.ch"
 language: "en"
 lang_direction: "ltr"
 color: "#007FFF"
 twitter_username: clarklab
-github_username:  clarklab
+github_username:  hijoft
 
 # Build settings
 markdown: kramdown
