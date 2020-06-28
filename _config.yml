@@ -1,9 +1,9 @@
 # Site settings
-title: Chowdown
+title: Männerkochen
 email: hijoft@gmail.com
-description: The plain text recipe database for hackers
-baseurl: "http://food.ötzibräu.ch"
-language: "en"
+description: Rezeptesammlung von Männer für Bierliebhaber :-)
+baseurl: "https://essen.ötzibräu.ch"
+language: "de"
 lang_direction: "ltr"
 color: "#007FFF"
 twitter_username: clarklab
