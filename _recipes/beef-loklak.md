@@ -36,6 +36,6 @@ directions:
 - Pfanne mit etwas Öl anheizen. Anschließend mariniertes Rindfleisch scharf anbraten und auf den vorbereiteten Tellern servieren.
 ---
 
-Rezept für 2 Personen, inspiriert von hier: https://tripangkor.de/kambodscha/essen-in-kambodscha/beef-lok-lak-rezept/
+Rezept für 2 Personen, inspiriert von [hier](https://tripangkor.de/kambodscha/essen-in-kambodscha/beef-lok-lak-rezept/)
 
 Bierempfehlung: Doppelleu Brewmaster Ed.23 Citrus Session IPA
