@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Dumplings"
-image: 20200616-dumplings.jpg
+image: 20200516-dumplings.jpg
 tags: dumpling, beef, asia
 
 ingredients:
