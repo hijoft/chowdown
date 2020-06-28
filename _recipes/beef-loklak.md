@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Beef Loklak"
-image: beef-lok-lak.jpg
+image: 20200627-loklak.jpg
 tags: cambodia, beef, rice, asia
 
 ingredients:
