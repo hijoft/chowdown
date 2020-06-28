@@ -32,6 +32,6 @@ directions:
 
 ---
 
-Rezept für 20 Stück, inspiriert von hier: https://fooby.ch/de/rezepte/15171/dumplings
+Rezept für 20 Stück, inspiriert von [hier](https://fooby.ch/de/rezepte/15171/dumplings)
 
 Bierempfehlung: Beerlao Lager
