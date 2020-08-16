@@ -29,7 +29,7 @@ ingredients:
 
 directions:
 - Das Rind in feine Streifen schneiden und mit der Sojasauce (5 EL), Fischsauce (5 EL), Austernsauce (1 EL), passierten Tomaten (2 EL), Zucker (1 EL), dem fein gewürfelten Knoblauch und Pflanzenöl (2 EL) marinieren. Anschließend in den Kühlschrank stellen und für mindestens 60 Minuten ruhen lassen.
-- Dip vorbereiten: Limette auspressen und den Saft mit Salz (1 TL), schwarzem Pfeffer (2 TL) und Wasser (1 TL) mischen. Anschließend in den Kühlschrank stellen.
+- Dip vorbereiten. Limette auspressen und den Saft mit Salz (1 TL), schwarzem Pfeffer (2 TL) und Wasser (1 TL) mischen. Anschließend in den Kühlschrank stellen.
 - Eier einzeln in Schüssel verrühren und mit genügend Sonnenblumen- oder Erdnussöl zu einem Omelett fritieren
 - Jasminreis mit 180ml Wasser und etwas Salz in eine Pfanne geben. Mit geschlossenem Deckel zum Kochen bringen und anschliessend die Platte ausschalten. Den Deckel während mindestens 15 Minuten (je nach Reis) nicht öffnen. Der Reis sollte anschliessend gar sein. 
 - Teller mit geschnittenen Tomaten, geschnittener Salatgurke und Salatblättern dekorieren. Später Reis und gebratenes Ei hinzufügen.
