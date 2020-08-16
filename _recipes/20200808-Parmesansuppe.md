@@ -28,4 +28,4 @@ directions:
 
 Rezept für 4 Personen, inspiriert von [hier](https://www.parmesan-parmigiano.de/parmesan-suppe/)
 
-Bierempfehlung: [Birra Moretti La Rossa](https://www.birramoretti.com/ch/de/homepage), [La Rossa](https://www.birramoretti.com/global/en/birra-moretti-la-rossa)
+Bierempfehlung: [Birra Moretti](https://www.birramoretti.com/ch/de/homepage), [La Rossa](https://www.birramoretti.com/global/en/birra-moretti-la-rossa)
