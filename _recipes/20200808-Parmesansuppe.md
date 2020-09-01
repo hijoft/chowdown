@@ -22,7 +22,7 @@ directions:
 - Danach wird die Sahne beigemengt und die Parmesansuppe mit dem Stabmixer püriert.
 - Die Parmesansuppe mit frisch gemahlenem schwarzen Pfeffer abschmecken, bei Bedarf noch salzen.
 - Noch einmal wird die Parmesansuppe aufgekocht, anschließend in vorgewärmten Tellern anrichten und heiß servieren.
-- Tipp: Besonders schön ist eine essbare Dekoration, zum Beispiel Parmesan Chips. Frische gehackte Kräuter wie Basilikum sind auch sehr dekorativ.
+- Tipp - Besonders schön ist eine essbare Dekoration, zum Beispiel Parmesan Chips. Frische gehackte Kräuter wie Basilikum sind auch sehr dekorativ.
 
 ---
 

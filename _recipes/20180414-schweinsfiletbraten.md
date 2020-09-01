@@ -33,7 +33,7 @@ directions:
 - Toastbrot, Butter, Apfelschnitze, Cranberries, Pistazien, Petersilie, 0.5TL Salz und wenig Pfeffer mischen.
 - Specktranchen nebeneinander senkrecht leicht überlappend auf die Arbeitsfläche legen (ergibt ein Rechteck von ca. 25 × 30 cm). Fleisch würzen, auf den Speck legen. Dörrfrüchtefüllung zwischen den beiden Filets verteilen, mit dem Speck umwickeln, mit Küchenschnur binden.
 - Bratbutter in einer weiten Bratpfanne heiss werden lassen. Braten rundum ca. 5 Min. anbraten. Braten herausnehmen, auf die vorgewärmte Platte legen. Fleischthermometer in eines der Filets stecken.
-- Niedergaren: ca. 1.25 Std. in der Mitte des vorgeheizten Ofens. Die Kerntemperatur soll 62 Grad betragen. Das Fleisch kann anschliessend bei 60 Grad bis zu 1 Std. warm gehalten werden. Herausnehmen, Braten tranchieren, mit den Spinatnudeln anrichten.
+- Niedergaren ca. 1.25 Std. in der Mitte des vorgeheizten Ofens. Die Kerntemperatur soll 62 Grad betragen. Das Fleisch kann anschliessend bei 60 Grad bis zu 1 Std. warm gehalten werden. Herausnehmen, Braten tranchieren, mit den Spinatnudeln anrichten.
 - Karotten weich dämpfen oder kochen und mit ein wenig Butter andünsten. Zum Fleisch und den Nudeln servieren.
 - Teigwaren im Salzwasser al dente kochen, ca. 1.5 dl Kochwasser beiseite stellen. Teigwaren über den Spinat giessen, abtropfen. Saucen-Halbrahm und Kochwasser aufkochen, Hitze reduzieren. Teigwaren daruntermischen, würzen.
 
