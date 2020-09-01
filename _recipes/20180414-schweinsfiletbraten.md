@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Gefüllter Schweinsfiletbraten"
-image: hirse-schweinsfiletbraten.jpg
+image: 20180414_hauptgang.jpeg
 tags: pork, main, fillet
 
 ingredients:
