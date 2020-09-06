@@ -1,0 +1,29 @@
+---
+
+layout: recipe
+title:  "Herbstsalat mit Eierschwämmli und Trauben"
+image: 2018xxxx-herbstsalat.jpg
+tags: salad, autumn, vegetarian, raisin, trauben, eierschwämme, pilze, funghi
+
+ingredients:
+- 1 Schalotte
+- 2 EL Apfelessig
+- 4 EL Öl, z.B. Traubenkernöl
+- 1 EL Zitronensaft
+- Salz
+- Pfeffer
+- 120g Eierschwämmli
+- 2 ELButter
+- 200g rote Trauben, z.B. Red Globe
+- 200g Blattsalat 
+
+ 
+directions:
+- Schalotte hacken. Mit Essig, Öl und Zitronensaft verrühren. Mit Salz und Pfeffer abschmecken. Pilze rüsten und je nach Grösse halbieren. Butter in einer Bratpfanne erhitzen. Pilze dazugeben und bei mittlerer Hitze ca. 2 Minuten braten. Mit Salz und Pfeffer abschmecken.
+- Trauben halbieren. Salat mit Pilzen und Trauben anrichten. Mit Dressing beträufeln.
+
+---
+
+Rezept für 4 Personen, inspiriert von [hier](https://migusto.migros.ch/de/rezepte/herbstsalat-mit-eierschwaemmli-und-trauben)
+
+Bierempfehlung: folgt noch
