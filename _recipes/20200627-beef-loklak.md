@@ -33,7 +33,7 @@ directions:
 - Eier einzeln in Schüssel verrühren und mit genügend Sonnenblumen- oder Erdnussöl zu einem Omelett fritieren
 - Jasminreis mit 180ml Wasser und etwas Salz in eine Pfanne geben. Mit geschlossenem Deckel zum Kochen bringen und anschliessend die Platte ausschalten. Den Deckel während mindestens 15 Minuten (je nach Reis) nicht öffnen. Der Reis sollte anschliessend gar sein. 
 - Teller mit geschnittenen Tomaten, geschnittener Salatgurke und Salatblättern dekorieren. Später Reis und gebratenes Ei hinzufügen.
-- Pfanne mit etwas Öl anheizen. Anschließend mariniertes Rindfleisch aus der Marinade nehmen und scharf anbraten. Wenn die gesamte Marinade mit angebraten wird, wird schmeckt das Gericht ziemlich salzig. Optional kann die restliche marinade noch erwärmt und separat zum nachwürzen bereitgestellt werden. Auf den vorbereiteten Tellern servieren. 
+- Anschließend mariniertes Rindfleisch aus der Marinade nehmen. Wenn die gesamte Marinade mit angebraten wird, schmeckt das Gericht zu salzig. Pfanne mit etwas Öl anheizen und das Fleisch scharf anbraten. Optional kann die restliche Marinade noch erwärmt und separat zum nachwürzen bereitgestellt werden. Auf den vorbereiteten Tellern servieren. 
 - Den Dip in einer separaten Schale bereitstellen und nach belieben über dem Gericht verteilen oder darin dippen.
 ---
 
