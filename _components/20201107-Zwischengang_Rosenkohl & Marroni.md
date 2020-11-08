@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Rosenkohl"
+title:  "Rosenkohl und Marroni"
 image: 
 tags: '#9'
 
