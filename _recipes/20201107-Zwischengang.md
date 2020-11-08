@@ -14,7 +14,7 @@ components:
 - Knöpfli
 - Rotkraut
 - Rosenkohl & Marroni
-- Hirsch Entercôte
+- Hirsch Entrecôte
 
 ---
 
