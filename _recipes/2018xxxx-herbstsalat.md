@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Herbstsalat mit Eierschwämmli und Trauben"
 image: 2018xxxx-herbstsalat.jpg
-tags: salad, autumn, vegetarian, raisin, trauben, eierschwämme, pilze, funghi
+tags: salat
 
 ingredients:
 - 1 Schalotte

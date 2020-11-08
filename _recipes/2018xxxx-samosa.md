@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Samosas"
 image: 2018xxxx-apero.jpg
-tags: samosa, india, vegetarian
+tags: apero, samosa, vegetarisch
 
 ingredients:
 - 300 g Mehl

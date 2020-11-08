@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Safrannudeln mit Garnelen"
 image: 20190112_zwischengang.jpeg
-tags: pasta, seafood, safran, ipa
+tags: pasta, seafood, safran, ipa, zwischengang
 
 ingredients:
 - 1 EL 	Butter
