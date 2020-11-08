@@ -1,12 +1,12 @@
 ---
 
 layout: recipe
-title:  "Hirsch Entercôte"
+title:  "Hirsch Entrecôte"
 image: 
-tags: 'Hirsch, '#9'
+tags: hirsch, '#9'
 
 ingredients:
-- 3 Stück Hirsch Entercôte
+- 3 Stück Hirsch Entrecôte
  
 directions:
 - Von beiden Seiten scharf anbraten.
