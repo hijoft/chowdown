@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Hirsch Entercôte"
 image: 
-tags: '#9', Hirsch
+tags: 'Hirsch, '#9'
 
 ingredients:
 - 3 Stück Hirsch Entercôte
