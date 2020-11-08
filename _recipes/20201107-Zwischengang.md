@@ -14,7 +14,6 @@ components:
 - Rosenkohl & Maroni
 - Hirsch Entercôte
 
-
 ---
 
 Rezepte als Zwischengang für 6 bis 8 Personen, inspiriert von [Knöpfli](https://www.bettybossi.ch/de/Rezept/ShowRezept/BB_ETXX041101_0006A-40-de?setDevice=auto) und [Rotkraut](https://fooby.ch/de/rezepte/18407/rotkraut-)
