@@ -31,7 +31,7 @@ directions:
 - Wasser, Zitronensaft und Salz beigeben, zugdeckt ca. 10 Min. köcheln. Erbsli beigeben, ca. 5 Min. weiterköcheln, auskühlen. Koriander fein schneiden, daruntermischen.
 - Ofen auf 220 Grad vorheizen.
 - Teig in 6 Portionen teilen, zu Kugeln formen, etwas flach drücken. Kugeln auf wenig Mehl zu Rondellen von je ca. 17 cm Ø auswallen, halbieren. Schnittkanten mit Wasser bestreichen. Je einen Halbkreis zu einer Tüte formen, Kanten gut zusammendrücken. Tüte bis ca. 1 cm unter den Rand füllen, Teigränder mit Wasser bestreichen, gut zusammendrücken, auf ein mit Backpapier belegtes Blech legen.
-- Backen - ca. 20 Min. in der Mitte des Ofens. Herausnehmen, warm oder kalt mit Joghurt servieren.
+- "Backen: ca. 20 Min. in der Mitte des Ofens. Herausnehmen, warm oder kalt mit Joghurt servieren."
 
 
 ---
