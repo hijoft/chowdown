@@ -4,6 +4,8 @@ layout: recipe
 title:  "Salzige Crème brûlée mit Epoisses"
 image: 20190511_dessert1.jpeg
 tags: cheese, dessert, creme, '#4'
+event: 4
+dish: 6
 
 ingredients:
 - 190 ml Schlagsahne

@@ -4,6 +4,8 @@ layout: recipe
 title:  "Rhabarber Panna Cotta"
 image: 20190511_dessert2.jpeg
 tags: panna cotta, dessert, rhubarb, black ale, '#4'
+event: 4
+dish: 7
 
 ingredients:
 - 5dl Vollrahm
