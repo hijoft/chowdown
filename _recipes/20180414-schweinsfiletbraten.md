@@ -3,7 +3,8 @@
 layout: recipe
 title:  "Gefüllter Schweinsfiletbraten"
 image: 20180414_hauptgang.jpeg
-tags: schwein, hauptgang, filet
+tags: schwein, hauptgang, filet, '#1'
+event: 1
 
 ingredients:
 - 2 Schweinsfilets (je ca. 400g)

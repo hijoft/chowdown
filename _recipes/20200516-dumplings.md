@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Dumplings"
 image: 20200516-dumplings.jpg
-tags: zwischengang, rind, asiatisch
+tags: zwischengang, rind, asiatisch, '#6'
 
 ingredients:
 - 250 g Weissmehl 

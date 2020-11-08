@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Parmesansuppe"
 image: 20200808-soup.jpg
-tags: suppe, käse, italienisch
+tags: suppe, käse, italienisch, '#8'
 
 ingredients:
 - 700 ml Gemüsebrühe

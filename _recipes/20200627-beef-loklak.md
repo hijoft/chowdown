@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Beef Lok Lak"
 image: 20200627-loklak.jpg
-tags: kambodscha, hauptgang, rind, reis, asiatisch
+tags: kambodscha, hauptgang, rind, reis, asiatisch, '#7'
 
 ingredients:
 - 300g Rindshuft (fein geschnitten)

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Scharf-Saure Suppe"
 image: 20190112_suppe.jpeg
-tags: scharf, sauer, suppe, asiatisch, pekingsuppe
+tags: scharf, sauer, suppe, asiatisch, pekingsuppe, '#3'
 
 ingredients:
 - 1 Hähnchenbrustfilet
