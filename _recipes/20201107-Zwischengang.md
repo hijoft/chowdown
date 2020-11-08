@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Hirsch Entercôte mit Knöpfli, Rotkraut und Rosenkohl"
+title: "Hirsch Entrecôte mit Knöpfli, Rotkraut und Rosenkohl"
 image: 20201107-zwüga.jpeg
 tags: zwischengang, wild, hirsch, '#9'
 event: 9
@@ -13,7 +13,7 @@ directions:
 components:
 - Knöpfli
 - Rotkraut
-- Rosenkohl & Maroni
+- Rosenkohl & Marroni
 - Hirsch Entercôte
 
 ---
