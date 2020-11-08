@@ -5,7 +5,7 @@ title:  "Hirsch Entercôte mit Knöpfli, Rotkraut und Rosenkohl"
 image: 20201107-zwüga.jpg
 tags: '#9', Zwischengang, Wild, Hirsch
 
-ingridients:
+ingredients:
 - test
 
 directions:
