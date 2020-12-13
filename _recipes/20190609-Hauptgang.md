@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Gefüllter Hohrücken mit Pommes Duchesse udn Spargeln"
+title:  "Gefüllter Hohrücken mit Pommes Duchesse und Spargeln"
 image: 20190609_hauptgang.jpeg
 tags: hauptgang, spargeln,  pommes duchesse, sauerkraut, '#5'
 event: 5
