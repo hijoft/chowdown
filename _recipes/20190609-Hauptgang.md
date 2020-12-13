@@ -17,6 +17,6 @@ components:
 
 ---
 
-Rezept für 6 Personen, inspiriert von Niedergaren leicht gemacht von Bety Bossi.
+Rezept für 6 Personen, inspiriert von Niedergaren leicht gemacht von Betty Bossi.
 
 Bierempfehlung: [Blackwell](https://blackwellbrewery.ch/), Torf Monster
