@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Beef Lok Lak"
 image: 20200627-loklak.jpg
-tags: kambodscha, hauptgang, rind, reis, asiatisch, '#7'
+tags: kambodscha, hauptgang, rind, reis, asiatisch, hirsiger, '#7'
 event: 7
 dish: 5
 

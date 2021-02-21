@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Salzige Crème brûlée mit Epoisses"
 image: 20190511_dessert1.jpeg
-tags: cheese, dessert, creme, '#4'
+tags: cheese, dessert, creme, hirsiger, '#4'
 event: 4
 dish: 6
 

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Scharf-Saure Suppe"
 image: 20190112_suppe.jpeg
-tags: scharf, sauer, suppe, asiatisch, pekingsuppe, '#3'
+tags: scharf, sauer, suppe, asiatisch, pekingsuppe, hirsiger, '#3'
 event: 3
 dish: 2
 

@@ -3,7 +3,7 @@
 layout: recipe
 title: "Grillspeck mit Kartoffelsalat"
 image: 20201205-main.jpeg
-tags: hauptgang, Baconspecial, speck, kartoffelsalat, '#10'
+tags: hauptgang, Baconspecial, speck, kartoffelsalat, jost, '#10'
 event: 10
 dish: 5
 

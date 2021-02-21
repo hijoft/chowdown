@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Gefüllter Schweinsfiletbraten"
 image: 20180414_hauptgang.jpeg
-tags: schwein, hauptgang, filet, '#1'
+tags: hirsiger, '#1'
 event: 1
 dish: 5
 

@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Mango Sticky Rice"
 image: 20200808-dessert.jpg
-tags: dessert, rice, asia, '#8'
+tags: dessert, rice, asia, hirsiger, '#8'
 event: 8
 dish: 6
 

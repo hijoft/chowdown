@@ -3,7 +3,7 @@
 layout: recipe
 title: "Hirsch Entrecôte mit Knöpfli, Rotkraut und Rosenkohl"
 image: 20201107-zwüga.jpeg
-tags: zwischengang, wild, hirsch, '#9'
+tags: zwischengang, wild, hirsch, jost, '#9'
 event: 9
 dish: 4
 

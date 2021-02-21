@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Parmesansuppe"
 image: 20200808-soup.jpg
-tags: suppe, käse, italienisch, '#8'
+tags: suppe, käse, italienisch, jost, '#8'
 event: 8
 dish: 3
 
