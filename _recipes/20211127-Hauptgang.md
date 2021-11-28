@@ -3,8 +3,8 @@
 layout: recipe
 title:  "Gefüllter Hohrücken mit Kürbisstampf und Senf-Meerrettich-Butter"
 image: 20211127-main.jpg
-tags: hauptgang, hirsiger, '#12'
-event: 12
+tags: hauptgang, hirsiger, '#13'
+event: 13
 dish: 5
 
 ingredients:

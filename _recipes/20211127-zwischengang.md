@@ -3,8 +3,8 @@
 layout: recipe
 title:  "Vitello tonnato"
 image: 20211127-zwischengang.jpg
-tags: zwischengang, kalb, thunfisch, piemont, andres, '#12'
-event: 12
+tags: zwischengang, kalb, thunfisch, piemont, andres, '#13'
+event: 13
 dish: 4
 
 ingredients klares Tomatenwasser:
